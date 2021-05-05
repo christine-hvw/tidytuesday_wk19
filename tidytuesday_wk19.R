@@ -85,8 +85,6 @@ ggplot() +
        caption = "Data: Water Point Data Exchange") +
   theme(panel.background = element_rect(fill = "transparent"),
         legend.position = c(0.16, 0.19), 
-        #legend.title = element_text(size = 12),
-        #legend.text = element_text(size = 11),
         text = element_text(family = "CMU Sans Serif"),
         plot.title = element_text(size = 24))
 
